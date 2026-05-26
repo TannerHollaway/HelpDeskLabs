@@ -70,6 +70,6 @@ when working a ticket under pressure.
 
 ---
 
-*Video walkthrough coming soon.*
+[Video of me quickly going through the documents](https://www.youtube.com/watch?v=Lgfva49Im_E)
 
 </details>
