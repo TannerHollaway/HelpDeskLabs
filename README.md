@@ -92,7 +92,9 @@ Opened the Documentation Station and navigated to the Email/Exchange section. Re
 Opened the internal messaging panel and made contact with the affected user to gather more detail and set expectations.
 
 Technician: Hello, this is Dakota and I'll be helping you out today.
-User: Hey Dakota, thanks for helping! Still having trouble with my email. It says "Disconnected" and I can't send or receive anything. And from my understanding others are also having this issue?
+User: Hey Dakota, thanks for helping! I'm still having trouble with my email. It says "Disconnected," and I can't send or receive anything.
+Technician: And from my understanding others are also having this issue?
+User: Yeah, that's right! Everyone seems to be having the same problem. It's pretty frustrating since I've got some deadlines coming up.
 Technician: Okay, please give me one moment while I check into this for you.
 User: Sure thing, take your time! Thanks for looking into it.
 
@@ -101,8 +103,8 @@ Opened the Server Room management interface and located the Exchange/email infra
 5. Confirmed Resolution
 Returned to the ticket and followed up with the user to verify email was restored.
 
-Technician: Thank you so much for waiting. Could you please confirm if your issue has been resolved?
-User: Yup it's all working again, really appreciate the quick fix! Thank you!
+Technician: Thank you so much for waiting. Could you please confirm if your issues has been solved?
+User: Oh, it's all working again, really appreciate the quick fix! Thank you!
 Technician: Of course.
 
 6. Closed the Ticket
