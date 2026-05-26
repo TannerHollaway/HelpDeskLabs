@@ -92,10 +92,15 @@ Opened the Documentation Station and navigated to the Email/Exchange section. Re
 Opened the internal messaging panel and made contact with the affected user to gather more detail and set expectations.
 
 Technician: Hello, this is Dakota and I'll be helping you out today.
+
 User: Hey Dakota, thanks for helping! I'm still having trouble with my email. It says "Disconnected," and I can't send or receive anything.
+
 Technician: And from my understanding others are also having this issue?
+
 User: Yeah, that's right! Everyone seems to be having the same problem. It's pretty frustrating since I've got some deadlines coming up.
+
 Technician: Okay, please give me one moment while I check into this for you.
+
 User: Sure thing, take your time! Thanks for looking into it.
 
 4. Identified and Resolved the Issue
