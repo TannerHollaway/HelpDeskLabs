@@ -73,3 +73,70 @@ when working a ticket under pressure.
 [Video of me quickly going through the documents](https://www.youtube.com/watch?v=Lgfva49Im_E)
 
 </details>
+
+
+
+<details>
+<summary>01 — Email Server Degraded | ServiceDesk Simulator</summary>
+
+A ticket came in reporting that no one in the building had email access. Users were 
+experiencing failed or delayed email delivery with Outlook showing a "Disconnected" status. 
+The goal was to identify the root cause, resolve it, and confirm restoration with the affected user.
+
+## Tools Used
+- Ticket Dashboard
+- Documentation Station (Exchange Server Configuration)
+- Server Room
+- Internal Messaging
+
+## Process
+
+**1. Reviewed the Ticket**
+Opened the active incident from the ticket queue and read through the issue details. 
+The ticket indicated degraded email server performance affecting multiple users.
+
+**2. Referenced Documentation**
+Opened the Documentation Station and navigated to the Email/Exchange section. Reviewed 
+the Exchange Server configuration document to understand the mail infrastructure before 
+taking any action.
+
+**3. Communicated with the User**
+Opened the internal messaging panel and made contact with the affected user to gather 
+more detail and set expectations.
+
+> **Technician:** Hello, this is Dakota and I'll be helping you out today.
+>
+> **User:** Hey Dakota, thanks for helping! Still having trouble with my email. It says "Disconnected" and I can't send or receive anything. And from my understanding others are also having this issue?
+>
+> **Technician:** Okay, please give me one moment while I check into this for you.
+>
+> **User:** Sure thing, take your time! Thanks for looking into it.
+
+**4. Identified and Resolved the Issue**
+Opened the Server Room management interface and located the Exchange/email infrastructure. 
+Executed a corrective administrative action against the affected mail service and confirmed 
+the action through the system prompt.
+
+**5. Confirmed Resolution**
+Returned to the ticket and followed up with the user to verify email was restored.
+
+> **Technician:** Thank you so much for waiting. Could you please confirm if your issue has been resolved?
+>
+> **User:** Yup it's all working again, really appreciate the quick fix! Thank you!
+>
+> **Technician:** Of course.
+
+**6. Closed the Ticket**
+Selected the resolution action on the ticket dashboard and confirmed closure. Ticket 
+status updated to "Solution Complete."
+
+## Outcome
+Email service was restored for all affected users. The issue was resolved through a 
+server-side corrective action performed from the Server Room interface. User confirmed 
+full functionality before the ticket was closed.
+
+---
+
+*Video walkthrough coming soon.*
+
+</details>
