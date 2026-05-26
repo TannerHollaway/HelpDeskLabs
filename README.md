@@ -117,5 +117,5 @@ Selected the resolution action on the ticket dashboard and confirmed closure. Ti
 Outcome
 Email service was restored for all affected users. The issue was resolved by restarting the Exchange email server from the Server Room interface. User confirmed full functionality before the ticket was closed.
 
-Video walkthrough coming soon.
+[Video Walkthrough](https://youtu.be/GNrkLXhD00o)
 </details>
