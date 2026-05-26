@@ -73,10 +73,6 @@ when working a ticket under pressure.
 [Video of me quickly going through the documents](https://www.youtube.com/watch?v=Lgfva49Im_E)
 
 </details>
-
-
-
-</details>
 <details>
 <summary>01 — Email Server Degraded | ServiceDesk Simulator</summary>
 A ticket came in reporting that no one in the building had email access. Users were experiencing failed or delayed email delivery with Outlook showing a "Disconnected" status. The goal was to identify the root cause, resolve it, and confirm restoration with the affected user.
