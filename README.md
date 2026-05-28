@@ -165,6 +165,6 @@ In a real environment, this ticket would not have been actioned without direct c
 
 ---
 
-*Video walkthrough coming soon.*
+[Video Walkthrough](https://youtu.be/Ojgtue2-gM0)
 
 </details>
