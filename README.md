@@ -119,3 +119,52 @@ Email service was restored for all affected users. The issue was resolved by res
 
 [Video Walkthrough](https://youtu.be/GNrkLXhD00o)
 </details>
+
+<details>
+<summary>02 — Suspicious Promotion Request | ServiceDesk Simulator</summary>
+
+A ticket came in from a user claiming they had been promoted and needed to be added to 
+the Management group immediately. The request appeared pre-justified with references to 
+HR approval, VP sign-off, and business urgency. Despite this, the ticket raised several 
+red flags before any action was taken.
+
+## Tools Used
+- Ticket Dashboard
+- Documentation Station
+- External Consultation (Claude)
+- Hint System
+
+## Why It Was Suspicious
+
+At first glance the ticket looked routine, but several details stood out:
+
+- **The requester submitted their own promotion ticket** — legitimate promotions are typically initiated by HR or a manager, not the employee themselves
+- **Multiple authority claims with no verification path** — the ticket referenced HR approval, an official email, and VP sign-off, but none of it was attached or verifiable through the system
+- **Urgency pressure** — phrases like "effective immediately" and "team waiting on approvals" are classic social engineering tactics used to rush technicians into skipping verification steps
+- **High privilege request** — adding someone to a Management group grants access to budget reports, purchase approvals, and team management tools — not something to act on without a clear process
+
+## Process
+
+**1. Reviewed the Ticket**
+Opened the ticket and immediately noted the unusual framing. The request was self-reported by the employee claiming the promotion, not submitted through HR or a manager.
+
+**2. Checked Documentation**
+Opened the Documentation Station and searched for a promotion or group access change policy. No documentation existed for this process, which removed any SOP to follow.
+
+**3. Consulted an External Source**
+Pasted the ticket contents to Claude and asked whether the request was legitimate. The response flagged it as suspicious based on the self-reported nature of the request, unverifiable approval claims, and urgency language.
+
+**4. Used the Hint System**
+With no policy to reference and a strong suspicion the request was not legitimate, the hint system was consulted. The hint indicated to complete the ticket as written.
+
+**5. Closed the Ticket**
+Completed the ticket per the simulator's intended resolution.
+
+## Takeaway
+In a real environment, this ticket would not have been actioned without direct confirmation from HR or the requester's manager through a verified channel — not based on claims made within the ticket itself. Tickets that self-justify with urgency and authority references are a common vector for privilege escalation through social engineering. The correct real-world response would be to pause, escalate, and verify before making any group membership changes.
+
+---
+
+*Video walkthrough coming soon.*
+
+</details>
